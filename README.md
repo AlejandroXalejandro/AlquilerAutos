@@ -179,4 +179,5 @@ Me pide contraseña de mi base de datos, mi usuario que por defecto es root, el 
 
 Anexo capturas de mi base de datos elaborada en Workbench
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/a1150595-6140-4078-a915-5dc1a2cb184b)
