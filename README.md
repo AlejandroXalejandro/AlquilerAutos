@@ -187,4 +187,4 @@ Anexo capturas de mi base de datos elaborada en Workbench
 Video explicativo acerca de la funcionalidad del programa
 
 
-https://youtu.be/9QJhRSP5MlI?si=_IhxMPVEIYmQqf4G
+[![Video de Demostración](https://img.youtube.com/vi/9QJhRSP5MlI/0.jpg)](https://youtu.be/9QJhRSP5MlI?si=_IhxMPVEIYmQqf4G)
