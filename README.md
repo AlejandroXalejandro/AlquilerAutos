@@ -181,3 +181,10 @@ Anexo capturas de mi base de datos elaborada en Workbench
 
 
 ![image](https://github.com/user-attachments/assets/a1150595-6140-4078-a915-5dc1a2cb184b)
+
+
+
+Video explicativo acerca de la funcionalidad del programa
+
+
+https://youtu.be/9QJhRSP5MlI?si=_IhxMPVEIYmQqf4G
